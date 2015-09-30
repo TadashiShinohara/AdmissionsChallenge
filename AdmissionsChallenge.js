@@ -4,7 +4,7 @@ myArray[0] = "Tadashi Shinohara";
 myArray[1] = "tadashi0924";
 
 function cutName(chopChop){
-	return chopChop.split(" ")
+	return chopChop.split(" ");
 }
 
 var myData = {};
